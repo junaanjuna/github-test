@@ -1,1 +1,1 @@
-const A = "A";
+const A = "B";
